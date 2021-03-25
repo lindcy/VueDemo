@@ -23,7 +23,7 @@
      background-color: #d3dce6;
   }
    .el-row {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     &:last-child {
       margin-bottom: 0;
     }
@@ -58,9 +58,6 @@
     height: 350px!important;
     width: 100%;
     display: block;
-  }
-  .el-row{
-    margin-bottom:10px!important;
   }
   .picPath{
     width: 300px;
