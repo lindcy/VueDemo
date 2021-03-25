@@ -52,7 +52,7 @@
   .contantcd{
       height: 200px!important;  
       text-align: left;
-      padding:0px 0px 0px 10px;
+      padding-left:10px;
   }
   .titlecd,.block,.el-carousel__container{
     height: 350px!important;
